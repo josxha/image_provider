@@ -4,11 +4,11 @@ version: 0.0.1
 repository: https://github.com/ueman/image_provider/http_image_provider
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
-  flutter: ">=3.0.0"
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.3.0"
 
 dependencies:
-  http: ^0.13.0
+  http: ^1.0.0
   flutter:
     sdk: flutter
 
